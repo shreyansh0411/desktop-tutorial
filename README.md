@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shrey
 
-🎓 **BCA Student** | 🐍 **Python Developer** | 📊 **Data & AI Enthusiast**
+🎓 **Student** | 🐍 **Python Developer** | 📊 **Data & AI Enthusiast**
 
 I'm a BCA student focused on building practical projects with **Python, data analysis, and machine learning**. I enjoy turning ideas into working applications and continuously improving my programming and problem-solving skills.
 
@@ -60,8 +60,6 @@ Currently working on improving its functionality, UI and overall project structu
 📧 **Email:** [shreyansh.agarwal0712@gmail.com](mailto:shreyansh.agarwal0712@gmail.com)
 
 💼 **LinkedIn:** Shreyansh Agarwal
-
-📸 **Instagram:** @shreyansh._2006
 
 ---
 
